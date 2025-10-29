@@ -49,3 +49,4 @@ def resultat():
 
 button_egalite_resultat= Button(window, text='=', width=5, height=2, command=resultat).grid(row=3, column=3, padx=0)
 window.mainloop()
+# jz veux juste apprendre à mieux coder
